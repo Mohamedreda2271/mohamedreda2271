@@ -6,8 +6,8 @@
 
 <h1>Education</h1>
 <ul>
-<li>Bachelor's Degree | Computer Science and Information Technology</li>
-<li>Graduation Project| Multi-Type Cancer Detection Systemli>
+<li>Bachelor's Degree  | Computer Science and Information Technology</li>
+<li>Graduation Project | Multi-Type Cancer Detection System</li>
 <li>09/2018 - 08/2022</li>
 </ul>
 
@@ -33,7 +33,7 @@ Matplotlib | Seaborn <br>
 (K-Means, KNN, Decision tree, SVM, and more) Data Augmentation| Image Segmentation |Classification | Clustering, Hierarchical clustering Regression (linear, Logistic) | Object-Detection <br>
 <b>Deep Learning</b> <br>
 CNNs | LSTMs | RNNs | SOMs | MLPs | Forward propagation | Backward Propagation | Mathematical Optimization | Hyperparameter Tuning
-IDEs, Containers, and code versioning <br>
+<b>IDEs, Containers, and code versioning<b/> <br>
 Visual studio code | Jupyter-lab | Google Collaboratory | Docker <br>
 
 <h3 align="left">Connect with me:</h3>
